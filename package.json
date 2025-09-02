@@ -1,0 +1,20 @@
+{
+  "name": "uconnect",
+  "version": "1.0.0",
+  "description": "u connect",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/app.js",
+    "dev":"nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "js"
+  ],
+  "author": "Aakriti Shory",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
